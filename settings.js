@@ -1,7 +1,7 @@
 // Change the url to the domain of your app
 exports.url = 'https://protected-earth-58800.herokuapp.com';
 
-exports.senderEmail = "info@essencerestaurants.com";
+exports.senderEmail = "info@essencerestaurants.com"; 
 exports.senderName = "Essence Restaurants Group";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
